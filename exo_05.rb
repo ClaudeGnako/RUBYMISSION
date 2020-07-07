@@ -1,4 +1,4 @@
-$ ruby exo_05.rb
+
 puts "On va compter le nombre d'heures de travail à THP"
 puts "Travail : #{10 * 5 * 11}"
 puts "En minutes ça fait : #{10 * 5 * 11 * 60}"
